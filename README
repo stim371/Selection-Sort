@@ -1,10 +1,10 @@
 Read Me for Selection Sort
 
-This was my first attempt to create an algorithm to sort an array using the selection sort method.
+This was my first attempt to create an algorithm to sort an array using the selection sort method !
 
 The project was based on a challenge from http://reprog.wordpress.com/2010/05/19/another-challenge-can-you-write-a-correct-selection-sort/
 
-Future work on these files may include:
-- trying to do the sort inside of a single array
-- adding additional tests to the test document
-- add arrays to tests
+Future work on these files might include:
+- trying to do the sort inside of a single array .
+- adding additional tests to the text document .
+- add arrays to texts
